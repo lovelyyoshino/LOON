@@ -56,7 +56,7 @@
 
 ### 特别感谢(排名不分先后)：
 
-- [@lxk0301](https://github.com/lxk0301/jd_scripts/tree/master)
+- [@LXK9301](https://github.com/LXK9301/jd_scripts/tree/master)
 
 * [@whyour](https://github.com/whyour/hundun/tree/master/quanx)
 
