@@ -64,6 +64,6 @@
 
 * [@Xinx1201](https://github.com/Xinx1201/jd_script/tree/d2401c0a797098064f43ef3baa2d817af42d3613)
 
-* [@blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/Loon)
+* [@blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/script)
 
 * [@shylocks](https://github.com/shylocks/Loon)
