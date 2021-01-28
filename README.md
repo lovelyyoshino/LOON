@@ -67,3 +67,5 @@
 * [@blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/script)
 
 * [@shylocks](https://github.com/shylocks/Loon)
+
+* [@ericgidseg](https://github.com/ericgidseg/JD-scripts/commits/master）
