@@ -68,4 +68,4 @@
 
 * [@shylocks](https://github.com/shylocks/Loon)
 
-* [@ericgidseg](https://github.com/ericgidseg/JD-scripts/commits/master）
+* [@ericgidseg](https://github.com/ericgidseg/JD-scripts/commits/master)
