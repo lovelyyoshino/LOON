@@ -69,3 +69,5 @@
 * [@shylocks](https://github.com/shylocks/Loon)
 
 * [@ericgidseg](https://github.com/ericgidseg/JD-scripts)
+
+* [@Tartarus2014](https://github.com/Tartarus2014/Loon-Script)
