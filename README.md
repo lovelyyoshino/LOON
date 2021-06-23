@@ -74,3 +74,26 @@
 * [@ericgidseg](https://github.com/ericgidseg/JD-scripts)
 
 * [@Tartarus2014](https://github.com/Tartarus2014/Loon-Script)
+
+### 船新版本
+* [@whyour](https://github.com/whyour/qinglong)
+
+* [@id77](https://github.com/id77/QuantumultX)
+
+* [@iouAkira](https://github.com/iouAkira/someDockerfile)
+
+* [@SuMaiKaDe](https://github.com/SuMaiKaDe/bot)
+
+* [@moposmall](https://github.com/moposmall/Script)
+
+* [@passerby-b](https://github.com/passerby-b/JDDJ)
+
+* [@longzhuzhu](https://github.com/longzhuzhu/nianyu)
+
+* [@Wenmoux](https://github.com/Wenmoux/scripts/tree/wen)
+
+* [@Ariszy](https://github.com/Ariszy/Private-Script)
+
+* [@hyzaw](https://github.com/hyzaw/scripts)
+
+* [@zooPanda](https://github.com/zooPanda/zoo)
